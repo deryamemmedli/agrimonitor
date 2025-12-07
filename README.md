@@ -8,6 +8,10 @@
 
 **AgriMonitor** is an intelligent agricultural monitoring platform that leverages **Sentinel-2 satellite imagery** and **NDVI (Normalized Difference Vegetation Index)** analysis to help agronomists identify crop health issues and facilitate treatment coordination with farmers. The system provides real-time field health monitoring, automated treatment request management, and data-driven decision support for precision agriculture.
 
+### 🎥 Demo Video
+
+Watch the project demonstration: [AgriMonitor Demo](https://youtu.be/UgNl5ssdIN0)
+
 ### Key Features
 
 - 🛰️ **Real-time NDVI Analysis** - Automated crop health assessment using Sentinel-2 satellite data from Microsoft Planetary Computer
